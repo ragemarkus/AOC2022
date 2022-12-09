@@ -1,0 +1,4 @@
+opponent challenger
+A Y
+B X
+C Z
